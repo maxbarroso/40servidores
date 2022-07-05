@@ -1,0 +1,51 @@
+header {
+	border: 3px solid #340016;
+	border-radius: 50px;
+				}
+
+body {
+	background: #020001;
+			      }
+.lema {
+
+
+	margin: 10px 0px 10px 30px;
+	font-family: arial;
+	font-size: 35px;
+	text-align: center;
+	color: #D43B2D;
+			}
+.respira{
+	
+	margin-top: 40px;
+	font-size: 20px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.box{
+	background-color: #340016;
+	display:flex;
+	position; absolute;
+	border: 3px solid #340016;
+	border-radius: 10px;
+	margin:20px auto;
+	width:420px;
+	height: 666px;
+}
+.card{
+	display:flex;
+	position: relative;
+	margin:auto;
+	border: 2px solid #D43B2D;
+}
+
+.botao{
+	position: absolute;
+	border: 5px solid #FFFF;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	itens-aling: center;
+	color: #FFFF;
+}
